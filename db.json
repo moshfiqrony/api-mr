@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rony"
+    },
+    {
+      "id": 2,
+      "username": "mrsamia"
+    },
+    {
+      "id": 3,
+      "username": "naeem"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "name": "Md. Moshfiqur Rahman Rony",
+      "post": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "name": "Samia Rahman",
+      "post": "QA Engineer"
+    }
+  ]
+}
