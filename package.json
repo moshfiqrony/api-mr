@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js",
-    "build": "node server.js"
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js",
+    "build": "nodemon server.js"
   },
   "dependencies": {
     "json-server": "^0.12.1",
