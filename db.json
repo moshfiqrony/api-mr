@@ -27,10 +27,31 @@
       "post": "QA Engineer"
     }
   ],
-  "others":[
-
-  ],
   "departments":[
-
+    {
+      "id": 0,
+      "name": "Computer Science and Engineering"
+    },
+    {
+      "id": 1,
+      "name": "Civil Engineering"
+    }
+  ],
+  "user-category":[
+    {
+      "id": 0,
+      "name": "Student"
+    },
+    {
+      "id": 1,
+      "name": "Teacher"
+    },
+    {
+      "id": 2,
+      "name": "Lab Assistant"
+    }
+  ],
+  "any-object": [
+    
   ]
 }

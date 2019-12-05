@@ -264,9 +264,10 @@ p {
 -------------------------------------------------------- */
 .header {
   height: 100vh;
-  background-size: cover;
-  position: relative;
-  overflow: hidden;
+  background-image: url(../img/bg.jpg);
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
 }
 .header:after {
   content: '';
@@ -276,7 +277,7 @@ p {
   left: 0;
   right: 0;
   background: #000;
-  opacity: .65;
+  opacity: .85;
   z-index: 2;
 }
 .header .v-middle {
